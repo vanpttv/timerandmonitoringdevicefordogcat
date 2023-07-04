@@ -1,5 +1,5 @@
 # timerandmonitoringdevicefordogcat
-
+Android Studio Code: https://github.com/vanpttv/timerandmonitoringdevice_androidapp
 PIC16F887, step motor, loadcell, App Android Studio, ESP 32 - CAM.
 
 ![image](https://github.com/vanpttv/timerandmonitoringdevice/assets/95868397/4c90e929-eb65-48fb-8626-0170dab4cb0c)
